@@ -11,7 +11,7 @@
 
 - Clone the repo first.
 ```
-git clone https://github.com/amodsachintha/laravel-5.6-mongodb-starter
+$ git clone https://github.com/amodsachintha/laravel-5.6-mongodb-starter
 ```
 - `cd` into the directory and run the following `artisan` command.
 ```
